@@ -10,7 +10,7 @@ Support Owners : @emmytexxx
 © @ohiziktv"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
+    UPGRADE_TEXT = "<b>👉 𝙸𝚗𝚋𝚘𝚡 𝙾𝚠𝚗𝚎𝚛 @emmytexxx.. </b>  /help for Details"
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
@@ -38,9 +38,9 @@ Plan name: Free Cloned User
 Expires on: 31/12/2020"""
     HELP_USER = """Hi I am a URL Uploader bot..
     
-1. Send url (Link|New Name with Extension).
-2. Send Custom Thumbnail (Optional).
-3. Select the button.
+1. 𝗦𝗲𝗻𝗱 𝗗𝗶𝗿𝗲𝗰𝘁 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗨𝗥𝗟 (Link|New Name with Extension). --
+2. 𝗦𝗲𝗻𝗱 𝗖𝘂𝘀𝘁𝗼𝗺 𝗧𝗵𝘂𝗺𝗯𝗻𝗮𝗶𝗹/𝗪𝗮𝘁𝗲𝗿𝗺𝗮𝗿𝗸(Optional).
+3. 𝗟𝗮𝘀𝘁𝗹𝘆 𝗦𝗲𝗹𝗲𝗰𝘁 𝗔𝗻𝘆 𝗕𝘂𝘁𝘁𝗼𝗻.
    SVideo - Give File as video with Screenshots
    DFile  - Give File with Screenshots
    Video  - Give File as video without Screenshots
@@ -51,7 +51,7 @@ Expires on: 31/12/2020"""
 --------
 Send /me to know current plan details
 
-Support Group : @emmytexxx
+Support Owners: @emmytexxx
 © @ohizi"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
